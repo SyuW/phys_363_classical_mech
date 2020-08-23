@@ -1,6 +1,9 @@
 import numpy as np
-
 import matplotlib.pyplot as plt
+
+'''
+Plot the rotating frame effective potential for the restricted three body problem
+'''
 
 M_2 = 1
 M_1 = 2*M_2

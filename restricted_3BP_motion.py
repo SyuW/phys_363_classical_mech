@@ -1,6 +1,9 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+'''
+Plot test mass trajectories in the restricted three-body problem
+'''
 
 # Constants
 a = 1

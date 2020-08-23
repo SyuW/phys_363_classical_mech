@@ -1,8 +1,11 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.optimize import fsolve
-
 from mpl_toolkits.mplot3d import Axes3D
+
+'''
+Plot the locus of points traced by the spin axis of a spinning top under gravity
+'''
 
 parameters_list = [{"a" : 2.0, "b" : 1.0, "alpha" : 1.0, "beta" : 2.0},
                    {"a" : 2.0, "b" : 2.0, "alpha" : 2.0, "beta" : 1.0},

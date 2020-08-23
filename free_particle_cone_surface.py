@@ -1,7 +1,10 @@
 from mpl_toolkits.mplot3d import Axes3D
-
 import matplotlib.pyplot as plt
 import numpy as np
+
+'''
+Plot trajectories of free particle under gravity that's constrained to move on cone-shaped surface
+'''
 
 initial_position = (4, 0)
 initial_velocity=(0, 0.5001)

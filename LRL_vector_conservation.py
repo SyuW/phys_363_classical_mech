@@ -1,6 +1,6 @@
 def main():
     '''
-    Show that the Laplace-Runge-Lenz vector is conserved
+    Show that the Laplace-Runge-Lenz vector is a conserved quantity
     '''
     # Masses of m_1 and m_2, m_1 set as the focus
     m_1 = 1
